@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px auto;
+    text-align: center;
+    font-size: 100%;
+    background-image: url('./img/a.jpg');
+    background-color: rgb(41, 235, 235);
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.game-info{
+    font-size: 80%;
+    text-align: center;
+    padding: 5px 2px;
+}
+.rules{
+    font-family: cursive;
+    color: rgb(4, 34, 49);
+}
+canvas{
+    background-color: rgb(23, 201, 250);
+    border-radius: 20px;
+    box-shadow:  3px 5px 6px rgb(4, 66, 128);
+    padding: 10px 10px 10px 10px;
+}
+/* ----------------- */
+.game-box {
+    text-align:center;   
+}
+.game-info {
+    text-align:center; 
+    font-family:arial;
+    line-height:5px;
+}
